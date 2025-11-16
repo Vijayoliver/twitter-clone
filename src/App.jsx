@@ -1,0 +1,1 @@
+export default function App(){return <div>Twitter Clone Ready for GitHub Pages</div>}
